@@ -8,6 +8,13 @@ This project contains the sources used to generate the Docker Hub images and inf
 * Debian: [azul/zulu-openjdk-debian](https://hub.docker.com/r/azul/zulu-openjdk-debian)
 * Distroless: [azul/zulu-openjdk-distroless](https://hub.docker.com/r/azul/zulu-openjdk-distroless)
 
+Important Notice
+=====
+
+This container image repository will be retired by the end of 2026. Please start migrating to the [Docker Official repository with Azul containers](https://hub.docker.com/_/azul-zulu).
+
+If you run into any issues or have feature/configuration requests, please open an issue at [zulu-openjdk/zulu-openjdk issues](https://github.com/AzulSystems/azul-zulu-images/issues).
+
 Usage
 =====
 
