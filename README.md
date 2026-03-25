@@ -11,7 +11,7 @@ This project contains the sources used to generate the Docker Hub images and inf
 Important Notice
 =====
 
-This container image repository will be retired by the end of 2026. Please start migrating to the [Docker Official repository with Azul containers](https://hub.docker.com/_/azul-zulu).
+This container image repository will be retired by the end of 2026. Please start migrating to the [Docker Official repository with Azul containers](https://hub.docker.com/_/azul-zulu). Check the [Running Azul Zulu Community Availability (CA) in a Docker Container](https://docs.azul.com/core/install/linux-ca-docker) in the Azul Documentation for more information.
 
 If you run into any issues or have feature/configuration requests, please open an issue at [AzulSystems/azul-zulu-images issues](https://github.com/AzulSystems/azul-zulu-images/issues).
 
